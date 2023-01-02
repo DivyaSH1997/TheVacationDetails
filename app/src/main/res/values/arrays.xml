@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="srno">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+
+
+    </integer-array>
+
+    <integer-array name="picslist">
+        <item>@drawable/india</item>
+        <item>@drawable/australia</item>
+        <item>@drawable/dubai</item>
+        <item>@drawable/france</item>
+        <item>@drawable/japan</item>
+        <item>@drawable/srilanka</item>
+        <item>@drawable/maldives</item>
+        <item>@drawable/canada</item>
+        <item>@drawable/mexico</item>
+        <item>@drawable/greenland</item>
+        <item>@drawable/korea</item>
+        <item>@drawable/nepal</item>
+    </integer-array>
+    <string-array name="placesnames">
+        <item>India</item>
+        <item>Australia</item>
+        <item>Dubai</item>
+        <item>France</item>
+        <item>Japan</item>
+        <item>SriLanka</item>
+        <item>Maldives</item>
+        <item>Canada</item>
+        <item>Mexico</item>
+        <item>Greenland</item>
+        <item>Korea</item>
+        <item>Nepal</item>
+    </string-array>
+    <integer-array name="placeprices">
+        <item>120000</item>
+        <item>300000</item>
+        <item>180000</item>
+        <item>280000</item>
+        <item>350000</item>
+        <item>80000</item>
+        <item>90000</item>
+        <item>260000</item>
+        <item>190000</item>
+        <item>200000</item>
+        <item>240000</item>
+        <item>140000</item>
+
+    </integer-array>
+</resources>
